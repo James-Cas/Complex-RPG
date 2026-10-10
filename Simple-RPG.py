@@ -4,7 +4,6 @@ import json
 import os
 import sys
 
-
 # Intro to Simple-RPG
 # A game about nothing
 # First made by J.C on July 30, 2026
