@@ -3,14 +3,15 @@ import time
 import json
 import os
 import sys
+from Game_Functions import *
 
-# Intro to Simple-RPG
+# Intro to Complex-RPG
 # A game about nothing
 # First made by J.C on July 30, 2026
 
 # Starting Up
 os.system("cls" if os.name == "nt" else "clear")
-print("Welcome to the game called Simple-RPG.")
+print("Welcome to the game called Complex-RPG.")
 print("This is a very simple and light RPG written in Python.")
 print()
 print("Lets start the game now. Do you want to boot up Simple-RPG?")
@@ -270,6 +271,4 @@ print("About Nothing but Code")
 print()
 
 wait(1)
-print("Welcome to the game. You are running Simple-RPG not Complex-RPG.")
-print("Simple-RPG job is to boot up and collect all the information needed to play the real game.")
-print("If you don't know what Complex-RPG is, don't worry it's most likely not important to you.")
+print("Welcome, there is not a lot to do right now. This is version -1.0 nickname 'Simple-RPG' because there is no game.")
