@@ -250,25 +250,23 @@ time_counter(5)
 
 os.system("cls" if os.name == "nt" else "clear")
 
-# This is where you paste the code into the Game
-# You can remove all the code after this line
-print("  ____  _                 _                ____  ____   ____")
+print("   ______                      __                ____  ____  ______")
 wait(0.4)
-print(" / ___|(_)_ __ ___  _ __ | | ___          |  _ \|  _ \ / ___|")
+print("  / ____/___  ____ ___  ____  / /__  _  __      / __ \/ __ \/ ____/")
 wait(0.4)
-print(" \___ \| | '_ ` _ \| '_ \| |/ _ \  _____  | |_) | |_) | |  _")
+print(" / /   / __ \/ __ `__ \/ __ \/ / _ \| |/_/_____/ /_/ / /_/ / / __")
 wait(0.4)
-print("  ___) | | | | | | | |_) | |  __/ |_____| |  _ <|  __/| |_| |")
+print("/ /___/ /_/ / / / / / / /_/ / /  __/>  </_____/ _, _/ ____/ /_/ /")
 wait(0.4)
-print(" |____/|_|_| |_| |_| .__/|_|\___|         |_| \_\_|    \____|")
+print("\____/\____/_/ /_/ /_/ .___/_/\___/_/|_|     /_/ |_/_/    \____/")
 wait(0.4)
-print("                   |_|")
-wait(1)
+print("                    /_/")
 
+wait(1)
 print()
 print("A program by James Cas")
 print("About Nothing but Code")
 print()
 
 wait(1)
-print("Welcome, there is not a lot to do right now. This is version -1.0 nickname 'Simple-RPG' because there is no game.")
+print("Welcome to Version -1.o of Complex-RPG.")

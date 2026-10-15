@@ -2,8 +2,7 @@ import time
 import json
 import os
 
-# Functions
-
+# Shows Player States
 def show_player(player_data):
     print("---- Player Info ----")
     print(f"Name: {player_data['name']}")
